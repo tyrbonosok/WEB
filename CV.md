@@ -27,8 +27,8 @@ I don't have much work experience yet, but I'm looking for it.
 ---
 
 ## Skills
-- **Languages:** Python
-- **Development Environments:** VS Code
+- **Languages:** Python, C#
+- **Development Environments:** VS Code, Visual Studio
 - **English level:** B1
 
 **Skills/projects:**  
