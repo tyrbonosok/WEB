@@ -32,7 +32,7 @@ I don't have much work experience yet, but I'm looking for it.
 - **English level:** B1
 
 **Skills/projects:**  
-[CV](http://127.0.0.1:5500/Untitled-1.html)
+[CV](CV.html)
 
 ---
 
