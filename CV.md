@@ -1,6 +1,6 @@
 # Halkouski Yauheni
 
-![photo](photo.jpg)
+![photo](Photo.jpg)
 
 ## Навигация
 - [Go to personal info](#halkouski-yauheni)
