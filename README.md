@@ -1,1 +1,1 @@
-https://tyrbonosok.github.io/WEB/CV.md
+https://tyrbonosok.github.io/WEB/cv
