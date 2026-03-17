@@ -1,6 +1,6 @@
 # Halkouski Yauheni
 
-![photo](https://i.imgur.com/MgYmPYL.jpeg)
+![photo](photo.jpg)
 
 ## Навигация
 - [Go to personal info](#halkouski-yauheni)
